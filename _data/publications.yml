@@ -5,7 +5,7 @@ main:
     conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing
     pdf: https://aclanthology.org/2023.emnlp-main.282/
     code: https://github.com/boschresearch/gradsim
-    image: ./assets/img/nlnde_pic.png
+    image: ./assets/img/gradsim_pic1.png
 
     
   - title: "NLNDE at SemEval-2023 Task 12: Adaptive Pretraining and Source Language Selection for Low-Resource Multilingual Sentiment Analysis"
@@ -13,5 +13,5 @@ main:
     conference_short: SemEval
     conference: Proceedings of the 17th International Workshop on Semantic Evaluation, 2023
     pdf: https://aclanthology.org/2023.semeval-1.68.pdf
-    image: ./assets/img/gradsim_pic1.png
+    image: ./assets/img/nlnde_pic.png
 
