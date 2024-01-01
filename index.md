@@ -4,19 +4,24 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a second-year PhD student at LMU Munich (University of Munich) and Bosch Center for Artificial Intelligence, under the supervision of Prof. Dr. Hinrich Schütze, Prof. Dr. Heike Adel, Prof. Dr. Jannik Strötgen and Dr. Lukas Lange. My research interests include multilingual and low-resource natural language processing, and continual learning for natural language processing.
+
+Before starting my PhD, I obtained my master’s degree in Robotics, Cognition, and Intelligence (RCI) at Technical University of Munich (TUM) with high distinction, and my bachelor’s degree in Vehicle Engineering at Tongji University, Shanghai, as an outstanding graduate student.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Low Resource and Multilingual NLP
+- Continual Learning for NLP
+- Parameter-Efficient Tuning of Language Models
+- Large Language Models
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2023]** I am in Singapore for EMNLP.
+- **[Oct. 2023]** Our paper about language grouping is accepted for EMNLP 2023 main conference!
+- **[Jun. 2023]** Our paper [NLNDE at Sem-Eval 2023 Task 12](https://aclanthology.org/2023.semeval-1.68/) is nominated as best system paper!
+- **[Jan. 2023]** We are top-ranked at the AfriSenti SemEval shared task on sentiment analysis for African languages!
+- **[Sept. 2022]** I started my PhD journey!
 
 {% include_relative _includes/publications.md %}
 
