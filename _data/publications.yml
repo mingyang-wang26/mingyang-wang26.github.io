@@ -10,7 +10,7 @@ main:
     
   - title: "NLNDE at SemEval-2023 Task 12: Adaptive Pretraining and Source Language Selection for Low-Resource Multilingual Sentiment Analysis"
     authors: <strong>Mingyang Wang*</strong>, Heike Adel, Lukas Lange, Jannik Strötgen, Hinrich Schütze
-    conference_short: SemEval-2023
+    conference_short: SemEval
     conference: Proceedings of the 17th International Workshop on Semantic Evaluation, 2023
     pdf: https://aclanthology.org/2023.semeval-1.68.pdf
     image: ./assets/img/gradsim_pic1.png
