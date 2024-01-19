@@ -17,10 +17,10 @@ Before starting my PhD, I obtained my master’s degree in Robotics, Cognition, 
 
 ## News
 
-- **[Dec. 2023]** I am in Singapore for EMNLP.
-- **[Oct. 2023]** Our paper on [language grouping](https://aclanthology.org/2023.emnlp-main.282/) is accepted for EMNLP 2023 main conference!
-- **[Jun. 2023]** Our paper [NLNDE at Sem-Eval 2023 Task 12](https://aclanthology.org/2023.semeval-1.68/) is nominated as best system paper!
-- **[Jan. 2023]** We are top-ranked at the AfriSenti SemEval shared task on sentiment analysis for African languages!
-- **[Sept. 2022]** I start my PhD journey!
+- **[Dec. 2023]** ✈ I am in Singapore for EMNLP.
+- **[Oct. 2023]** 🧾 Our paper on [language grouping](https://aclanthology.org/2023.emnlp-main.282/) is accepted for EMNLP 2023 main conference!
+- **[Jun. 2023]** 🎖 Our paper [NLNDE at Sem-Eval 2023 Task 12](https://aclanthology.org/2023.semeval-1.68/) win the **best system award** and is nominated as the **best paper**!
+- **[Jan. 2023]** 🎖 We are top-ranked at the AfriSenti SemEval shared task on sentiment analysis for African languages!
+- **[Sept. 2022]** 📍 I start my PhD journey!
 
 {% include_relative _includes/publications.md %}
