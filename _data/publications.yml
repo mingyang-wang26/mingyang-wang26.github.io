@@ -4,12 +4,14 @@ main:
     conference_short: ACL 2024
     conference: Proceedings of the 62st Annual Meeting of the Association for Computational Linguistics
     pdf: https://arxiv.org/abs/2402.12976
+    image: ./assets/img/multi-icl.png
     
   - title: "AAdaM at SemEval-2024 Task 1: Augmentation and Adaptation for Multilingual Semantic Textual Relatedness"
     authors: Miaoran Zhang, <strong>Mingyang Wang*</strong>, Jesujoba O Alabi, Dietrich Klakow
     conference_short: SemEval 2024
     conference: Proceedings of the 18th International Workshop on Semantic Evaluation, 2024
     pdf: https://arxiv.org/abs/2404.01490
+    image: ./assets/img/aadam.png
     
   - title: "Rehearsal-Free Modular and Compositional Continual Learning for Language Models"
     authors: <strong>Mingyang Wang*</strong>, Heike Adel, Lukas Lange, Jannik Strötgen, Hinrich Schütze
@@ -17,6 +19,7 @@ main:
     conference: Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics
     pdf: https://arxiv.org/abs/2404.00790
     code: https://github.com/boschresearch/MoCL-NAACL-2024
+    image: ./assets/img/mocl.png
     
   - title: "Ofa: A framework of initializing unseen subword embeddings for efficient large-scale multilingual continued pretraining"
     authors: Yihong Liu, Peiqin Lin, <strong>Mingyang Wang*</strong>, Hinrich Schütze
@@ -24,6 +27,7 @@ main:
     conference: Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics
     pdf: https://arxiv.org/abs/2311.08849
     code: https://github.com/cisnlp/ofa
+    image: ./assets/img/ofa.png
     
   - title: "GradSim: Gradient-Based Language Grouping for Effective Multilingual Training"
     authors: <strong>Mingyang Wang*</strong>, Heike Adel, Lukas Lange, Jannik Strötgen, Hinrich Schütze
