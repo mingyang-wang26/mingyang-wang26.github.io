@@ -16,6 +16,7 @@ Before starting my PhD, I obtained my master’s degree in Robotics, Cognition, 
 - Large Language Models
 
 ## News
+- **[Jun. 2024]** ✈ I’m attending ACL 2024 (Bangkok, Thailand) in person. Let’s grab a coffee and chat!
 - **[Jun. 2024]** 🎖 Our paper [AAdaM at SemEval-2024 Task 1](https://arxiv.org/abs/2404.01490) received the **best paper award** at SemEval 2024 @ NAACL!
 - **[Jun. 2024]** ✈ I’m attending NAACL 2024 (Mexico City, Mexico) in person. Let’s grab a coffee and chat!
 - **[May. 2024]** 🎉 Paper accepted for ACL findings! Check it out: [The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis](https://arxiv.org/abs/2402.12976)
