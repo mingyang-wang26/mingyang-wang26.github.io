@@ -20,9 +20,9 @@ twitter: https://twitter.com/mingyang2666
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/pic_5.jpg
-favicon: ./assets/img/four_leaf_clover.png
-favicon_dark: ./assets/img/four_leaf_clover.png
+avatar: ./assets/img/pic_6.jpg
+favicon: ./assets/img/tulip.png
+favicon_dark: ./assets/img/tulip.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
