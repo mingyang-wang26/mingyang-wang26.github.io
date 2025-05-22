@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a third-year PhD student at LMU Munich (University of Munich) and Bosch Center for Artificial Intelligence, under the supervision of Prof. Dr. Hinrich Schütze, Prof. Dr. Heike Adel, Prof. Dr. Jannik Strötgen and Dr. Lukas Lange. My research interests include multilingual natural language processing, model editing and interpretability for large language models.
+I am a third-year PhD student at LMU Munich (University of Munich) and Bosch Center for Artificial Intelligence, under the supervision of Prof. Dr. Hinrich Schütze, Prof. Dr. Heike Adel, Prof. Dr. Jannik Strötgen and Dr. Lukas Lange. My research interests include **Multilingual large language models**; **Large language model interpretability**; **Language Model continual learning**.
 
 Before starting my PhD, I obtained my master’s degree in Robotics, Cognition, and Intelligence (RCI) at Technical University of Munich (TUM) with high distinction, and my bachelor’s degree in Vehicle Engineering at Tongji University, Shanghai, as an outstanding graduate student.
 
 ## Research Interests
 
-- Multilingual NLP
-- Continual Learning and Model Editing for NLP
-- Mechanistic Interpretability for Large Language Models
-- Parameter-Efficient Tuning of Language Models
+- Multilingual Large Language Models
+- Large Language Model Interpretability
+- Language Model Continual Learning
 
 ## News
-- **[Sept. 2024]** 🎉 Paper accepted to EMNLP findings! Check it out: [Better Call SAUL: Fluent and Consistent Language Model Editing with Generation Regularization](https://arxiv.org/abs/2410.02433)
+- **[May. 2025]** 📜 New paper out! Check it out: [Language Mixing in Reasoning Language Models: Patterns, Impact, and Internal Causes](https://arxiv.org/abs/2505.14815)
+- **[May. 2025]** 🎉 Three papers accepted to ACL main conference! Check them out: [Cross-lingual Inconsistency](https://arxiv.org/abs/2504.04264), [Cross-lingual Knowledge Editing](https://arxiv.org/abs/2406.17764), [Multilingual Pretraining](https://arxiv.org/abs/2409.18199).
+- **[Sept. 2024]** 🎉 Paper accepted to EMNLP findings! Check it out: [Better Call SAUL: Fluent and Consistent Language Model Editing with Generation Regularization](https://aclanthology.org/2024.findings-emnlp.469/)
 - **[Jun. 2024]** ✈ I’m attending ACL 2024 (Bangkok, Thailand) in person. Let’s grab a coffee and chat!
 - **[Jun. 2024]** 🎖 Our paper [AAdaM at SemEval-2024 Task 1](https://arxiv.org/abs/2404.01490) received the **best paper award** at SemEval 2024 @ NAACL!
 - **[Jun. 2024]** ✈ I’m attending NAACL 2024 (Mexico City, Mexico) in person. Let’s grab a coffee and chat!
