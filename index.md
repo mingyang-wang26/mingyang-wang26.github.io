@@ -15,6 +15,8 @@ Before starting my PhD, I obtained my master’s degree in Robotics, Cognition, 
 - Language Model Continual Learning
 
 ## News
+- **[Sep. 2025]** 🎉 Paper accepted to NeurIPS 2025!  Check it out: [Refusal Direction is Universal Across Safety-Aligned Languages](https://arxiv.org/abs/2505.17306).
+- **[Aug. 2025]** 🎉 Three papers accepted to EMNLP 2025!  Check them out: Main - [Language Mixing in Reasoning Language Models: Patterns, Impact, and Internal Causes](https://arxiv.org/abs/2505.14815); Main - [Relation-Specific Neurons in LLMs](https://arxiv.org/abs/2502.17355); Findings - [Tracing Multilingual Knowledge Acquisition](https://arxiv.org/abs/2505.14824).
 - **[May. 2025]** 📜 New paper out! Check it out: [Language Mixing in Reasoning Language Models: Patterns, Impact, and Internal Causes](https://arxiv.org/abs/2505.14815)
 - **[May. 2025]** 🎉 Three papers accepted to ACL main conference! Check them out: [Cross-lingual Inconsistency](https://arxiv.org/abs/2504.04264), [Cross-lingual Knowledge Editing](https://arxiv.org/abs/2406.17764), [Multilingual Pretraining](https://arxiv.org/abs/2409.18199).
 - **[Sept. 2024]** 🎉 Paper accepted to EMNLP findings! Check it out: [Better Call SAUL: Fluent and Consistent Language Model Editing with Generation Regularization](https://aclanthology.org/2024.findings-emnlp.469/)
